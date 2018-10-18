@@ -1,0 +1,7 @@
+[submodule "submodule1"]
+	path = submodule1
+	url = git@lferro9000.github.com:lferro9000/tech-forum-git-submodule.git
+[submodule "submodule2"]
+	path = submodule2
+	url = git@lferro9000.github.com:lferro9000/tech-forum-git-submodule.git
+	branch = master
